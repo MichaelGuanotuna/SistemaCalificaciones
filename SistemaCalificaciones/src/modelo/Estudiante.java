@@ -7,7 +7,7 @@ public class Estudiante extends Persona {
     private double[] notas;
     private boolean tieneNotas;
 
-    // Constructor vacío
+    // Constructor
     public Estudiante() {
         super();
         this.codigo = "";

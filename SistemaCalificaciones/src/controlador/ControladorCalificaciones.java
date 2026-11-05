@@ -38,7 +38,6 @@ public class ControladorCalificaciones implements ActionListener {
         actualizarTabla();
     }
 
-    // Eventos de botones y JComboBox
     @Override
     public void actionPerformed(ActionEvent e) {
 
